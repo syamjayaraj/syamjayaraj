@@ -16,6 +16,6 @@ Hey there! I'm Syamlal CM, a Software Engineer and Entrepreneur passionate about
 Explore the live site: [Youngmenu.com](https://youngmenu.com)
 
 ## Connect with Me
-- <a href="https://syam.me" target="_blank">Website</a>
+- [Website](https://syam.me)
 - [LinkedIn](https://www.linkedin.com/in/syamjayaraj)
 - [Twitter](https://twitter.com/syamjayaraj)
