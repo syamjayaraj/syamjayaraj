@@ -13,7 +13,7 @@ Hey there! I'm Syamlal CM, a Software Engineer and Entrepreneur passionate about
 
 ## Best Open Source Projects
 
-### [Youngmenu](https://github.com/syamjayaraj/youngmenu)
+### 1. [Youngmenu](https://github.com/syamjayaraj/youngmenu)
   Youngmenu is a comprehensive restaurant management platform consisting of multiple components:
 - [youngmenu-website](https://github.com/syamjayaraj/youngmenu-website): A Next.js app for the youngmenu.com website with store listings and menus.
 - [youngmenu-cms](https://github.com/syamjayaraj/youngmenu-cms): A Strapi CMS for managing website content, stores, and menu items.
@@ -26,7 +26,7 @@ Explore the live site: [Youngmenu.com](https://youngmenu.com)
 \
 &nbsp;
 
-### [Parambath App](https://github.com/syamjayaraj/parambath-app)
+### 2. [Parambath App](https://github.com/syamjayaraj/parambath-app)
   An Android app designed to provide instant access to services and notifications for people living in Thalakkulathur village. It consists of multiple components:
 
 - [parambath-app](https://github.com/syamjayaraj/parambath-app): A React Native app list all the services in Thalakkulathur village.
@@ -39,7 +39,7 @@ Find the Parambath app on Google Play Store: [Parambath App](https://play.google
 \
 &nbsp;
 
-### [Kuty.me](https://github.com/syamjayaraj/kuty-website)
+### 3. [Kuty.me](https://github.com/syamjayaraj/kuty-website)
 
 People don't like long and messy URLs. Kuty.me will help you to shorten any lengthy URL in just one click.
 
