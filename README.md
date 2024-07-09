@@ -17,11 +17,12 @@ Hey there! I'm Syamlal CM, a Software Engineer and Entrepreneur passionate about
   Youngmenu is a comprehensive restaurant management platform consisting of multiple components:
 - [youngmenu-website](https://github.com/syamjayaraj/youngmenu-website): A Next.js app for the youngmenu.com website with store listings and menus.
 - [youngmenu-cms](https://github.com/syamjayaraj/youngmenu-cms): A Strapi CMS for managing website content, stores, and menu items.
+- [youngmenu-app](https://github.com/syamjayaraj/youngmenu-app): Complete restaurant management app build with React Native.
 - [youngmenu-backend](https://github.com/syamjayaraj/youngmenu-backend): An Express backend for the complete restaurant management app.
 
 Tools used: **Next.js**, **GraphQL**, **Strapi CMS**, **MySQL**, **Vercel**, **Vultr**.
 
-Explore the live site: [Youngmenu.com](https://youngmenu.com)
+Explore the live site: [YoungMenu.com](https://youngmenu.com)
 
 \
 &nbsp;
@@ -45,12 +46,27 @@ People don't like long and messy URLs. Kuty.me will help you to shorten any leng
 
 Other features in Kuty.me are Whatsapp link generator and Quiz maker
 
-- [Client]([https://github.com/syamjayaraj/kuty-website](https://github.com/syamjayaraj/kuty-website/tree/master/client)): An Express backend to manage APIs and Mongo DB connection.
-- [Server]([https://github.com/syamjayaraj/kuty-website](https://github.com/syamjayaraj/kuty-website/tree/master/server)): A Next.js app for the kuty.me website.
+- [Client](https://github.com/syamjayaraj/kuty-website/tree/master/client): A Next.js app for the kuty.me website.
+- [Server](https://github.com/syamjayaraj/kuty-website/tree/master/server): An Express backend to manage APIs and Mongo DB connection.
 
 Tools used: **Next.js**, **Express.js**, **MongoDB**, **Vercel**, **Vultr**.
 
 Explore the live site: [Kuty.me](https://kuty.me)
+
+\
+&nbsp;
+
+### 3. [GymTie](https://github.com/syamjayaraj/gymtie)
+
+Experience effortless gym management with the GymTie app.
+
+- [Website](https://github.com/syamjayaraj/gymtie/tree/main/gymtie-website): A Next.js app for the Gymtie.com website.
+- [Frontend](https://github.com/syamjayaraj/gymtie/tree/main/gymtie-frontend): Next.js app for the Gymtie app.
+- [Backend](https://github.com/syamjayaraj/gymtie/tree/main/gymtie-backend): An Express backend to manage APIs and Mongo DB connection.
+
+Tools used: **Next.js**, **Express.js**, **MongoDB**, **Vercel**, **Vultr**.
+
+Explore the live site: [GymTie.com](https://gymtie.com)
 
 \
 &nbsp;
